@@ -1,0 +1,27 @@
+body{
+	background-color: #F08080;
+}
+h1{
+	font-size: 30px;
+	color: white;
+}
+h2{
+	font-size: 25px;
+	color: white;
+}
+
+.big{font-size: 60px;}
+h3{
+	font-size: 50px;
+	color: white; 
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+.big.uppercase{
+	color: white;
+}
+h1 span{
+	color:white;
+}
